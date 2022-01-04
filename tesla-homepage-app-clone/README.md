@@ -79,5 +79,5 @@ To start the application interface just run `npm start` or `yarn start` on the r
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](https://github.com/leoronne/tesla-homepage-ui-clone/blob/master/LICENSE)**;
-- Copyright 2022 © <a href="https://github.com/leoronne" target="_blank">Gabriel S. Fraga</a>.
+- Copyright 2022 © <a href="https://github.com/GabrielFraga962" target="_blank">Gabriel S. Fraga</a>.
 

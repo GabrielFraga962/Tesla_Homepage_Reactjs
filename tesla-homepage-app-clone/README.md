@@ -34,7 +34,7 @@ This repo contains an UI clone from Tesla homepage.
 
 <br>
 
-Deployed [here](https://tesla.ui-clone.ronne.dev/).
+Deployed [here](https://tesla-homepage-app-clone.netlify.app/).
 
 <br>
 
@@ -61,7 +61,7 @@ Deployed [here](https://tesla.ui-clone.ronne.dev/).
 
 ## Installation :wrench:
 
-First you need to clone the project using `git clone https://github.com/leoronne/tesla-homepage-ui-clone.git`.
+First you need to clone the project using `https://github.com/GabrielFraga962/Tesla_Homepage_Reactjs.git`.
 
 You can install the application using `npm install` or `yarn install` on the root dir.
 
@@ -73,11 +73,6 @@ To start the application interface just run `npm start` or `yarn start` on the r
 
 <br>
 
-## Contributing 🤔
-
-Please read [CONTRIBUTING](https://github.com/leoronne/tesla-homepage-ui-clone/blob/master/CONTRIBUTING.md) for details on code of conduct, and the process for submitting pull requests to the project.
-
-<br>
 
 ## License :memo:
 

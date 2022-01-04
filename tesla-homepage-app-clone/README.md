@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src\assets\img\transparentBanner.png" width="50%"/>
+  <img src="https://i.imgur.com/nSQE0Ey.png" width="40%" alt="Logo Tesla"/>
 </p>
 
 <br>
@@ -16,7 +16,6 @@
   <a href="#techs-rocket">Techs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#installation-wrench">Installation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#start-on">Start</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#contributing-">Contributing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#license-memo">License</a>
 </p>
 

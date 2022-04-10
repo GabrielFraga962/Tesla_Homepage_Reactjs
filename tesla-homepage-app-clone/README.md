@@ -6,8 +6,7 @@
 
 <div align="center" style="margin: 20px; text-align: center">
   
-  [![Netlify Status](https://api.netlify.com/api/v1/badges/d0415414-ab6f-4203-9cf0-95fcbd1b5677/deploy-status)](https://app.netlify.com/sites/tesla-homepage-app-clone/deploys)
-
+ [![Netlify Status](https://api.netlify.com/api/v1/badges/d0415414-ab6f-4203-9cf0-95fcbd1b5677/deploy-status)](https://app.netlify.com/sites/tesla-homepage-app-clone/deploys)
 
 </div>
 
